@@ -1,6 +1,6 @@
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 
-<p align="center"><img src="https://c.tenor.com/5ry-200hErMAAAAC/hacker-hacker-man.gif" width="300"/></p>
+<p align="center"><img src="https://c.tenor.com/5ry-200hErMAAAAC/hacker-hacker-man.gif" width="100"/></p>
 
 
 <p align="center">
