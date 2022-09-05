@@ -68,7 +68,7 @@ title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </p>
 <h3 align="center">Play Market:</h3>
 <p href="https://play.google.com/store/apps/developer?id=Mobile+Bro" target="blank"><img align="center" src="https://cdn.rawgit.com/steverichey/google-play-badge-svg/master/img/fr_get.svg" alt="Mobile+Bro" align="center" /></p>
-<input type="image" name="Play Market:" src="https://cdn.rawgit.com/steverichey/google-play-badge-svg/master/img/fr_get.svg" alt="text">  
+<p <input type="image" name="Play Market:" src="https://cdn.rawgit.com/steverichey/google-play-badge-svg/master/img/fr_get.svg" alt="text">  </p>
 
 
 
