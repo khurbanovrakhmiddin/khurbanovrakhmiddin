@@ -1,6 +1,6 @@
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 
-<p align="center"><img src="https://c.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" width="300"/></p>
+<p align="center"><img src="https://i.gifer.com/758b.gif" width="600"/></p>
 
 
 <p align="center">
