@@ -78,4 +78,4 @@ title="Git" alt="Git" width="40" height="40"/>&nbsp;
 <p <input type="image" name="Play Market:" src="https://cdn.rawgit.com/steverichey/google-play-badge-svg/master/img/fr_get.svg" alt="text">  </p>
 
  -->
-
+ 
