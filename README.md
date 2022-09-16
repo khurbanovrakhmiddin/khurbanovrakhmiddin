@@ -53,7 +53,7 @@ title="Git" alt="Git" width="40" height="40"/>&nbsp;
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khurbanovrakhmiddin&theme=vision-friendly-dark" alt="khurbanovrakhmiddin" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khurbanovrakhmiddin&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khurbanovrakhmiddin&layout=compact&theme=vision-friendly-dark)]()
 
 
  <a href="https://rakhmiddinkhurbanov.netlify.app/#/" style="color:red;">My resume is here click here!</a>
