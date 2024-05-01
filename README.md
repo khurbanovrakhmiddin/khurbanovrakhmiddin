@@ -5,11 +5,11 @@
 
 <p align="center">
 <h1 align="center">Assalamu Alaykum!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
-<h2 align="left"> I'm Rahmiddin Kurbanov</h2>
+<h2 align="left"> I'm Rahmiddin Kurbanov  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Uzbekistan. </h2>
 
 ### :woman_technologist: &nbsp;About Me :
 
-I am a Fluttter Moblie Developer at RTECO LLC and Team Lead at Mecare LLC <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Uzbekistan.
+ Fluttter Moblie Developer at RTECO LLC and Team Lead at Mecare LLC
 
 - 🔭 I am working as a Mobile app developer .
 I use Flutter for this, Flutter is very convenient, and lures people to itself.
