@@ -9,9 +9,8 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-I am a Fluttter Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Uzbekistan.
+I am a Fluttter Moblie Developer at RTECO LLC and Team Lead at Mecare LLC <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Uzbekistan.
 
-- Moblie Developer at RTECO LLC and Team Lead at Mecare LLC
 - 🔭 I am working as a Mobile app developer .
 I use Flutter for this, Flutter is very convenient, and lures people to itself.
 - 🌱 Exploring Technical Content Writing.
